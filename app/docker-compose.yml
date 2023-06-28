@@ -1,0 +1,11 @@
+version: '3'
+services: 
+  nuxt:
+    build:
+      context: .
+    image: flix_tv
+    container_name: flix_tv_nuxt_movie_frontend
+    command: sh ./start.sh
+    ports:
+    -  "3000:3000"
+    -  "5500:5500"
