@@ -29,19 +29,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/flix_tv_frontend:latest
-      -
-        name: Set-up Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: "18.x"
-          run: npm install
-      -
-        name: Deploy
-        uses: crazy-max/ghaction-github-pages@v1
-        run: npm run generate
-         run: npm run deploy
-        with:
-          target_branch: main
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN_GITHUB }}
