@@ -11,8 +11,7 @@
     "prepare": "cd .. && husky install",
     "test": "vitest",
     "start-json-server": "json-server --watch ./Titles.json --host=0.0.0.0 --port 5500",
-    "predeploy": "nuxt generate",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages --dotfiles -d .output/public"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.1",
