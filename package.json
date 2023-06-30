@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint --ext \".ts,.js,.vue\" --ignore-path .gitignore .",
     "lint-fix": "eslint --fix --ext \".ts,.js,.vue\" --ignore-path .gitignore .",
-    "prepare": "cd .. && husky install",
+    "prepare": "husky install",
     "test": "vitest",
     "start-json-server": "json-server --watch ./Titles.json --host=0.0.0.0 --port 5500",
     "deploy": "gh-pages --dotfiles -d .output/public"
