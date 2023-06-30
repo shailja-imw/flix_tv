@@ -90,66 +90,6 @@
                     "img_url":"https://m.media-amazon.com/images/M/MV5BZGRjZWMyNmEtYWQ5ZC00MDk5LWFiNmYtZjAxMGNjNjAzNmVjXkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_QL75_UY280_CR79,0,280,280_.jpg"
                 }
             ]
-        },
-        {
-            "id": "tm817087",
-            "title": "#AnneFrank. Parallel Stories",
-            "type": "MOVIE",
-            "desc": "One single Anne Frank moves us more than the countless others who suffered just as she did but whose faces have remained in the shadows-Primo Levi. The Oscar®-winning Helen Mirren will introduce audiences to Anne Frank's story through the words in her diary. The set will be her room in the secret refuge in Amsterdam, reconstructed in every detail by set designers from the Piccolo Theatre in Milan. Anne Frank this year would have been 90 years old. Anne's story is intertwined with that of five Holocaust survivors, teenage girls just like her, with the same ideals, the same desire to live: Arianna Szörenyi, Sarah Lichtsztejn-Montard, Helga Weiss and sisters Andra and Tatiana Bucci. Their testimonies alternate with those of their children and grandchildren.",
-            "release_year": 2019,
-            "runtime": 92,
-            "img_url":"https://m.media-amazon.com/images/M/MV5BYjBlZGZkODEtNjUxMC00NWY1LWJkYWUtYzY2NDIxZjkwZmQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY562_CR7,0,380,562_.jpg",
-            "genres": "drama, history, documentation",
-            "production_countries": "IT",
-            "credits": [
-                {
-                    "person_id": 99593,
-                    "title_id": "tm817087",
-                    "name": "Yoo Ah-in",
-                    "character": "Oh Joon-woo",
-                    "role": "ACTOR",
-                    "img_url":"https://m.media-amazon.com/images/M/MV5BMTZiOWIzN2YtYjgxMi00ZmY0LThhNWQtNWEwNDU2Mjg4OTZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX280_CR0,9,280,280_.jpg"
-  
-                },
-                {
-                    "person_id": 61464,
-                    "title_id": "tm817087",
-                    "name": "Park Shin-hye",
-                    "character": "Kim Yoo-bin",
-                    "role": "ACTOR",
-                    "img_url":"https://m.media-amazon.com/images/M/MV5BZGRjZWMyNmEtYWQ5ZC00MDk5LWFiNmYtZjAxMGNjNjAzNmVjXkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_QL75_UY280_CR79,0,280,280_.jpg"
-  
-                }
-            ]
-        },
-        {
-            "id": "tm371188",
-            "title": "#FriendButMarried",
-            "type": "MOVIE",
-            "desc": "Pining for his high school crush for years, a young man puts up his best efforts to move out of the friend zone until she reveals she's getting married.",
-            "release_year": 2018,
-            "runtime": 102,
-            "img_url":"https://m.media-amazon.com/images/M/MV5BNThlMWQ5YTItNTA1ZC00MDc3LWE4NGItZDZiMmU1OWE5MzMyXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
-            "genres": "comedy, drama, romance",
-            "production_countries": "ID",
-            "credits": [
-                {
-                    "person_id": 99595,
-                    "title_id": "tm371188",
-                    "name": "Yoo Ah-in",
-                    "character": "Oh Joon-woo",
-                    "role": "ACTOR",
-                    "img_url":"https://m.media-amazon.com/images/M/MV5BMTZiOWIzN2YtYjgxMi00ZmY0LThhNWQtNWEwNDU2Mjg4OTZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX280_CR0,9,280,280_.jpg"
-                },
-                {
-                    "person_id": 61466,
-                    "title_id": "tm371188",
-                    "name": "Park Shin-hye",
-                    "character": "Kim Yoo-bin",
-                    "role": "ACTOR",
-                    "img_url":"https://m.media-amazon.com/images/M/MV5BZGRjZWMyNmEtYWQ5ZC00MDk5LWFiNmYtZjAxMGNjNjAzNmVjXkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_QL75_UY280_CR79,0,280,280_.jpg"
-                }
-            ]
         }
     ]
     
