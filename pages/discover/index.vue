@@ -2,7 +2,9 @@
 const { base_url } = useRuntimeConfig()
 const route = useRoute()
 const router = useRouter()
-let _page = route.query._page
+let _page = route.query._page ? route.query._page : 1 
+console.log("base url",base_url);
+
 const { data: title, pending } = await useAsyncData('title', () =>
   $fetch(`${base_url}/title?_page=${_page}&_limit=8`)
 )
